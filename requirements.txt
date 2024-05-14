@@ -1,3 +1,11 @@
 ipykernel
 chainlit
 python-dotenv
+langchain
+openai
+chromadb
+tiktoken
+PyPDF2
+pypdf
+pandas
+tabulate
